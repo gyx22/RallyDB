@@ -1,0 +1,9 @@
+[submodule "third_party/googletest"]
+	path = third_party/googletest
+	url = https://github.com/google/googletest
+[submodule "third_party/benchmark"]
+	path = third_party/benchmark
+	url = git@github.com:google/benchmark.git
+[submodule "ycsb-cpp/HdrHistogram_c"]
+	path = ycsb-cpp/HdrHistogram_c
+	url = git@github.com:HdrHistogram/HdrHistogram_c.git

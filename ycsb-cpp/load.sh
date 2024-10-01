@@ -1,0 +1,1 @@
+./build/ycsb -run -db leveldb -P workloads/workload_demo -P leveldb/leveldb.properties -s

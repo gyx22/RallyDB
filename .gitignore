@@ -1,0 +1,14 @@
+# Editors.
+*.sw*
+.DS_Store
+
+# Build directory.
+build/
+out/
+cmake-build-debug
+cmake-build-release
+.idea
+doc/.obsidian
+torch/libtorch
+torch/model/__pycache__/
+shell/libtorch.txt

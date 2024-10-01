@@ -1,0 +1,16 @@
+*.o
+*.d
+
+ycsb
+
+.vimrc
+tags
+compile_commands.json
+.clangd/
+.cache/
+cmake-build-debug
+.vscode
+.idea
+build
+rate_trace.txt
+*.out
